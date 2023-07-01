@@ -26,5 +26,12 @@
     "title": "A template for generating a PDF and a website for your book",
     "section": "Conditional content",
     "text": "Conditional content\nThe block below does not appear in the PDF, only on the website and Epub:\nHello, I won’t appear in the PDF!"
+  },
+  {
+    "objectID": "chapter_1.html",
+    "href": "chapter_1.html",
+    "title": "3  Chapter 1",
+    "section": "",
+    "text": "OK let’s see if this works…"
   }
 ]
