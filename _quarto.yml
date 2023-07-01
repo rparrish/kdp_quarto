@@ -2,14 +2,13 @@ project:
   type: book
 
 book:
-  title: "A template for generating a valid EPUB, a KDP-ready PDF and a website for your book"
-  author: "Bruno Rodrigues"
+  title: "A template for generating a PDF and a website for your book"
+  author: "Rollie Parrish"
   date: "2023-06-28"
   search: true
-  repo-url: "https://github.com/b-rodrigues/kdp_quarto"
+  repo-url: "https://github.com/rparrish/kdp_quarto"
   repo-actions: [edit]
-  sharing: [twitter, facebook]
-  downloads: [pdf, epub]
+  downloads: [pdf]
   chapters:
     - index.qmd
     - preface.qmd
